@@ -15,3 +15,4 @@ The objective of this project was to build a task management and email automatio
 
 
 ## :bulb: Work to be done
+- [] Declare the name variable and insert it into the HTML documents before Mail.App is inititated. 
