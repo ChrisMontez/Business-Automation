@@ -7,11 +7,11 @@ The objective of this project was to build a task management and email automatio
 
 
 ## :wrench: Progress
-[x] HTML Orientation Email 
-[x] HTML Headshot Email
-[x] HTML Next Steps Email
-[x] HTML Marketing Items
-[x] JavaScript Automation
+- [x] HTML Orientation Email 
+- [x] HTML Headshot Email
+- [x] HTML Next Steps Email
+- [x] HTML Marketing Items
+- [x] JavaScript Automation
 
 
 ## :bulb: Work to be done
