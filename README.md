@@ -12,8 +12,8 @@ The objective of this project was to build a task management and email automatio
 - [x] HTML Next Steps Email
 - [x] HTML Marketing Items
 - [x] JavaScript Automation
-- [ ] Replace name variable with user input in HTML doc
+- [ ] JS var -> HTML doc
 
 
 ## :bulb: Work to be done
-Declare the name variable and insert it into the HTML documents before Mail.App is inititated. 
+*Declare the name variable and insert it into the HTML documents before Mail.App is inititated. 
