@@ -1,11 +1,7 @@
-// This function is automatically run because I set up a Trigger
-// (Resources -> Current Project's Triggers) for Spreadsheet onOpen.
-// That means when the spreadsheet is opened, we'll add a menu item to it. 
-// the menu item associates a new "Workflows -> Send new offer letters"
-// option with the "sendNewOfferLetters" function. 
+
 
 function addMenuItems() {
-  // Documented @ https://developers.google.com/apps-script/guides/menus
+
   var ui = SpreadsheetApp.getUi();
   ui.createMenu('Send Letters')
   .addItem('Send Orientation Letters', 'sendNewLetters')
