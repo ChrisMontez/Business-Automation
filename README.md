@@ -1,4 +1,4 @@
-# trail_bot
+# germanium
 
 
 ## :thought_balloon: Background 
