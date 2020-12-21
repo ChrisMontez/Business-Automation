@@ -1,12 +1,12 @@
 
 
 
-## :thought_balloon: Background 
+##  Background 
 The objective of this project was to build a task management and email automation system that is easily used by the end-client within the GSuite infrastructure. A google spreadsheet was created to function as the UI. The automation was written in JavaScript using the Apps Script scripting platform.
 
 
 
-## :wrench: Progress
+##  Progress
 - [x] HTML Orientation Email 
 - [x] HTML Headshot Email
 - [x] HTML Next Steps Email
@@ -15,5 +15,5 @@ The objective of this project was to build a task management and email automatio
 - [ ] JS var -> HTML doc
 
 
-## :bulb: Work to be done
+##  Work to be done
 *Declare the name variable and insert it into the HTML documents before Mail.App is inititated. 
