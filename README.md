@@ -2,7 +2,7 @@
 
 
 ##  Background 
-The objective of this project was to build a task management and email automation system that is easily used by the end-client within the GSuite infrastructure. A google spreadsheet was created to function as the UI. The automation was written in JavaScript using the Apps Script scripting platform.
+The objective of this project was to build a task management and email automation system that is easily used by the end-client within the GSuite infrastructure. A google spreadsheet was created to function as the UI. The automation was written in JavaScript using the Apps Script platform.
 
 
 
